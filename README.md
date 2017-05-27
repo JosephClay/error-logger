@@ -4,7 +4,7 @@ js browser-to-server error logger
 
 `npm install @immutabl3/error-logger`
 
-# about
+# About
 
 Uses [stacktrace-js](https://github.com/stacktracejs/stacktrace.js/) and [mailgun-js](https://www.npmjs.com/package/mailgun-js) to catch and email errors from client-side applications.
 
